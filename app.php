@@ -1,5 +1,5 @@
 <?php
 while(true){
-echo "hello";
+echo "hello\n";
 sleep(10);
 }
