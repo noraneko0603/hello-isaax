@@ -1,4 +1,5 @@
 <?php
-while(true){echo "hello";
+while(true){
+echo "hello";
 sleep(10);
 }
