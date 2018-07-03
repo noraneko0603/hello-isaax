@@ -1,5 +1,8 @@
 <?php
- while(true){
-   echo "hello\n";
-   sleep(10);
-}
+
+	while(true){
+         $my_env = getenv("MY_ENV");
+	 echo $my_env."\n";
+	 sleep(10);
+	}
+
